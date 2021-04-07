@@ -1,4 +1,6 @@
-![Main image](https://i.imgur.com/OAL12S5.jpg)
+### Internal fork
+
+<!-- ![Main image](https://i.imgur.com/OAL12S5.jpg)
 
 <h1 style="margin: 0" align="center">react-insta-stories</h1>
 <p align="center">A React component for Instagram like stories</p>
@@ -407,4 +409,4 @@ Support this project by becoming a sponsor. [Become a sponsor](https://opencolle
 
 ## License
 
-MIT © [mohitk05](https://github.com/mohitk05)
+MIT © [mohitk05](https://github.com/mohitk05) -->
